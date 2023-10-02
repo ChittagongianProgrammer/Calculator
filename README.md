@@ -1,6 +1,6 @@
 # Urdu Code Calculator
 
-A calculator for general purposes and the name was designed by a special person.
+A calculator for general purposes.
 
 ## Usage
 
