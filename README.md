@@ -1,20 +1,24 @@
-# Urdu Code Calculator
+#Calculator
 
-A calculator for general purposes.
+This code creates a basic calculator web app with HTML, CSS and JavaScript.
 
-## Usage
+Here are the key things it does:
 
-To complete basic numerical operations
+- Sets up the HTML document structure with head and body tags
+- Imports a CSS stylesheet file for styling
+- Imports a JavaScript file containing the calculator logic
+- Creates a table to layout the calculator display and buttons
+- Displays a textbox for showing the calculation input/output 
+- Has buttons for numbers, operators, clear, decimal point etc. 
+- Calls JavaScript functions when buttons are clicked to show them in the textbox (show())
+- Has functions like clear() to clear the textbox
+- Has an = button to evaluate the calculation (answer())
 
-## Functions of the calculator
+So in summary, it:
 
-* Adding
-* Multiplying
-* Subtracting
-* Dividing
+- Creates the front-end web structure for a calculator 
+- Accepts input through calculator buttons 
+- Connects the buttons to JavaScript functions
+- Performs calculations and displays output dynamically
 
-## Technologies used
-
-* HTML
-* CSS
-* JS
+It leverages HTML for structure, CSS for styling, and JavaScript to make it interactive and functional as a web-based calculator app.
