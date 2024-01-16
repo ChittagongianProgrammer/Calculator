@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 This code creates a basic calculator web app with HTML, CSS and JavaScript.
 
